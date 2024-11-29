@@ -4,19 +4,21 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="[https://github.com/zyx-0314/](https://github.com/avocxari)">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logo" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Title</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Stella Maris College is a private learning Institution run by the Franciscan Missionaries of Mary. It is located in Cubao, Quezon City, Philippines. It was established in 1955, and situated in the upper-middle class area of the capital city.
 </div>
 
 <br />
+
+[![wakatime](https://wakatime.com/badge/user/0e366a11-2ff1-4879-8d73-b3971fd51faa/project/68129915-c8a5-4aa6-a729-1544f4be50c8.svg)](https://wakatime.com/badge/user/0e366a11-2ff1-4879-8d73-b3971fd51faa/project/68129915-c8a5-4aa6-a729-1544f4be50c8)
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
