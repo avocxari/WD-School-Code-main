@@ -9,11 +9,11 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Stella Maris College Quezon City</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+ Stella Maris College is a private learning Institution run by the Franciscan Missionaries of Mary. It is located in Cubao, Quezon City, Philippines. It was established in 1955, and situated in the upper-middle class area of the capital city.
 </div>
 
 <br />
