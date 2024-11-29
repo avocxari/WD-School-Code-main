@@ -1,3 +1,4 @@
+/* General Styles */
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f8f9fa;
@@ -31,40 +32,82 @@ h2 {
 .navbar-nav .nav-link {
     font-size: 16px;
     margin-right: 10px;
-    color: #19035c;
+    color: #000080;
 }
 
 .navbar-nav .nav-link.active {
     font-weight: bold;
-    color: #010745;
+    color: #003366;
 }
 
 .navbar-nav .nav-link:hover {
     color: #001f4d;
 }
-/* Banner Section */
-.banner-section img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 10px;
+
+/* Hero Section */
+.hero {
+    background-color: #003366;
+    color: #f8f9fa;
+    padding: 50px 0;
+    text-align: center;
+    font-family: "Playfair Display", serif;
+     font-optical-sizing: 400;
+     font-style: normal;
 }
 
-/* Contact Section */
-.contact-section {
+/* Section Titles */
+.section-title {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #003366;
+}
+
+/* Links */
+.text-link {
+    color: #003366;
+    text-decoration: underline;
+}
+
+.text-link:hover {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+/* Content Boxes */
+.content-box {
+    border-radius: 5px;
+}
+
+.left-section {
     background-color: #001f4d;
-    border-radius: 10px;
+    color: #f5f5f5;
+    border-radius: 5px;
 }
 
-.contact-section h1 {
-    margin-bottom: 2rem;
+.right-section {
+    background-color: #f8f9fa;
+    color: #001f4d;
+    border-radius: 5px;
 }
 
-.contact-section p {
-    margin-bottom: 1rem;
-    font-size: 1.1rem;
+/* Background Colors */
+.bg-dark {
+    background-color: #001f4d !important;
 }
 
-/* Footer */
+.bg-light {
+    background-color: #f8f9fa !important;
+}
+
+/* Text Colors */
+.text-white {
+    color: #f8f9fa !important;
+}
+
+.text-dark {
+    color: #001f4d !important;
+}
+/* Footer Styles */
 footer {
     text-align: center;
     padding: 30px;
@@ -97,7 +140,7 @@ footer a:hover {
 }
 
 footer {
-    background-color: #120145;
+    background-color: #000000;
 }
 
 footer h5 {
