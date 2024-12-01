@@ -22,7 +22,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=/avocxari/WD-School-Code-main)
 
 ---
 
@@ -60,25 +60,19 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- The project is a school website created to give important information about the school, including its programs, facilities, and contact information, as well as information about the admissions process. Offer a central platform for users to learn about the school. Streamline the admissions process by providing relevant details and forms. Provide a user-friendly interface for prospective students, parents, and other visitors to navigate. The homepage contains a list of options for easy access and showcases the school's features, mission, and vision. FAQs, deadlines, procedures, and abilities are all covered on the admissions page. The history, accomplishments, and personnel of the school are described in the "About Us" section. Academic programs highlight the curriculum, activities, and courses offered. A map, forms, and social network connections are all included on the contact page, which has a responsive design for easy usage on all devices.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-A020F0?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -119,4 +113,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Stella Maris Quezon City | For school website. | [Stella Maris Quezon City](https://stellamariscollegeqc.edu.ph/) |
