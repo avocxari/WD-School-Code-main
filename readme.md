@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="[https://github.com/zyx-0314/](https://github.com/avocxari)">
+  <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/logo.png" alt="Nyebe" width="130" height="100">
   </a>
@@ -18,11 +18,9 @@
 
 <br />
 
-[![wakatime](https://wakatime.com/badge/user/0e366a11-2ff1-4879-8d73-b3971fd51faa/project/68129915-c8a5-4aa6-a729-1544f4be50c8.svg)](https://wakatime.com/badge/user/0e366a11-2ff1-4879-8d73-b3971fd51faa/project/68129915-c8a5-4aa6-a729-1544f4be50c8)
-
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=/avocxari/WD-School-Code-main)
+![](https://visit-counter.vercel.app/counter.png?page=avocxari/WD-School-Code-main)
 
 ---
 
@@ -60,6 +58,8 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 Description of the project in details.
+
+Guiding Question:
 - The project is a school website created to give important information about the school, including its programs, facilities, and contact information, as well as information about the admissions process. Offer a central platform for users to learn about the school. Streamline the admissions process by providing relevant details and forms. Provide a user-friendly interface for prospective students, parents, and other visitors to navigate. The homepage contains a list of options for easy access and showcases the school's features, mission, and vision. FAQs, deadlines, procedures, and abilities are all covered on the admissions page. The history, accomplishments, and personnel of the school are described in the "About Us" section. Academic programs highlight the curriculum, activities, and courses offered. A map, forms, and social network connections are all included on the contact page, which has a responsive design for easy usage on all devices.
 
 ### Key Components
@@ -72,7 +72,7 @@ Description of the project in details.
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-A020F0?style=for-the-badge&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-A020F0?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
